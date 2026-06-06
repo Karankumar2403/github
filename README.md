@@ -1,3 +1,4 @@
+https://camo.githubusercontent.com/b4d8c86da8e9ba1d4143886ed9efe254e82b527b839f7cb7f9c4c76660b6b512/68747470733a2f2f692e6962622e636f2f794e396b4c58682f64646a6b3336732d33366537333665642d613366352d346561642d626335612d3230353561643739643861372e676966
 # 💫 About Me:
 👋 Hi, I'm Karan Kumar Mahato<br><br>🎓 ECE Student at BIT Sindri  <br>💻 Passionate about Software Development, Machine Learning, and Competitive Programming  <br>🚀 Currently exploring Full-Stack Development, AI/ML, and Backend Engineering<br><br>- 🌱 Learning and building with MERN Stack & TensorFlow<br>- 🧠 Strong interest in DSA and problem-solving<br>- 🤝 Open to collaboration on innovative projects<br>- 🎯 Aspiring Software Engineer & Machine Learning Enthusiast<br><br>"Learning, Building, and Growing Every Day."
 
